@@ -1,0 +1,26 @@
+#menu{
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+
+fieldset{
+  width: 500px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  border-radius: 30px;
+  color: black;
+  background-color: blanchedalmond;
+}
+
+
+p{
+  margin: 10px;
+ 
+}
+
+
+
+ 
